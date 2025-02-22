@@ -20,5 +20,5 @@
 
 [Page Objects](src/main/java/sayanacademy/pageobjects)
 [Properties](src/main/java/sayanacademy/Resources/GlobalData.properties)
-[Test Data](src/test/java/sayanacademy/data/PurchaseOrder.json)
+[Test Data](src/test/java/sayanacademy/data)
 [Tests](src/test/java/sayanacademy/Tests)
