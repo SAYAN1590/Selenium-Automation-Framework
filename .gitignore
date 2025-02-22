@@ -1,0 +1,8 @@
+.classpath
+.project
+allure-results/
+.vscode/
+.settings/
+reports/
+test-output/
+target/
